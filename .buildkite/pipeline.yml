@@ -1,2 +1,2 @@
 steps:
-  - command: "echo.sh"
+  - command: echo "Hello!"
