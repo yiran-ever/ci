@@ -1,2 +1,2 @@
 steps:
-  - command: echo "Hello!"
+  - command: ech "Hello!"
