@@ -1,2 +1,2 @@
 script:
-  - echo "Hello Travis"
+  - g++ main.cpp
